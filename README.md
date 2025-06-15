@@ -49,8 +49,10 @@ Live demonstrations of how performance is impacted by small datasets and what on
 These videos were especially helpful for hands-on learning, for example, creating a virtual environment in PyCharm, loading and resizing an image, and selecting the proper parameters for the classifier.
 
 OUTPUT:
-Total samples: 7
-Class counts: [4 3]
+Total samples: 7                         
+
+Class counts: [4 3]     
+
 50.00% of samples were correctly classified.
 
 Process finished with exit code 0
