@@ -33,3 +33,5 @@ Through this project, valuable hands-on experience was gained in the entire deep
 In conclusion, this project successfully demonstrated how Convolutional Neural Networks can be applied to solve real-world image classification problems. It not only met the technical requirements of the internship task but also offered insights into model performance monitoring and improvement strategies. This experience will serve as a strong foundation for future work in artificial intelligence and computer vision.
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/7558864b-81d0-4cfd-b4d5-81eaa6bec293)
